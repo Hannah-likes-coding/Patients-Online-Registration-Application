@@ -35,5 +35,19 @@ patients’ names will be input into the existing file called “Patient_name.tx
 ## Console Sample 
 - open the file "console-sample.txt"
 
+## Main Method’s details:
+• In main method, pass in a FileReader instance to Scanner to read character data instead
+of System.in.
+• List doctors, and sored by the DoctorType
+• List nurses
+• Call InputPatient() method to prompt user to input the information
+• Call showAdministrator method to let user input user’s name (first name and last name)
+and output it.
+• Call matchDoctor, selectNurse, calculateFee method to print out the registration
+information: patient information, matched doctor information, selected nurse
+information, fee.
+• Print the patient list sorted by their age group
+• Store two new doctors’ information
+• Use HashMap to retrieve the first name “Oscar” from new doctors
 
 
