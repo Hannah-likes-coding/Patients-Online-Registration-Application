@@ -12,6 +12,7 @@ age group, select the suitable nurse by patients’ gender ( female nurses to fe
 male nurses to male patients), and count the different fees by patients’ age group for patients,
 and let administrators to input their names (first name and last name) each time to record who
 input the data of registration, and can retrieve data from system.
+
 There are 8 classes, and 2 enumerations:
 
 ## 8 Classes: Person, Doctor, Patient, Nurse, Administrator, InformationRegister,
