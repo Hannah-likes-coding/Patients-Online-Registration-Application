@@ -1,4 +1,10 @@
 # Patients-Online-Registration-Application
+- 🌟 Skills: Java, UML
+
+## UML
+![image](https://github.com/user-attachments/assets/6b4f860e-13a1-4cdc-962d-627087e94c40)
+- Or open the file "console-uml.pdf"
+  
 ## Explanation and summary for the project:
 Patients online Registration application is designed for administrators of Health Clinic to input
 the information of patients, and the system will automatically register the suitable doctor by
@@ -7,8 +13,10 @@ male nurses to male patients), and count the different fees by patients’ age g
 and let administrators to input their names (first name and last name) each time to record who
 input the data of registration, and can retrieve data from system.
 There are 8 classes, and 2 enumerations:
+
 ## 8 Classes: Person, Doctor, Patient, Nurse, Administrator, InformationRegister,
 RegistrationRecord, PatientOnlineRegistrationApp
+
 ## 2 enumeration: AgeGroup, DoctorType
 There are two files for this application: Patient_name.txt and Registration System.txt
 When running the project, firstly user need to input patient’s first name, last name, gender, and
@@ -20,6 +28,12 @@ registered nurse, fee, and administrator. Besides, the information of all patien
 age group will be printed out. Finally, the system adds two new doctors, and search the first
 name of doctor to get the information of doctor. After user finishing the registration each time,
 patients’ names will be input into the existing file called “Patient_name.txt”.
+
 ## The screenshot for the user input part:
 ![image](https://github.com/user-attachments/assets/fe6f3a19-2823-45b1-8052-fb46989aa7e1)
+
+## Console Sample 
+- open the file "console-sample.txt"
+
+
 
