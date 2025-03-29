@@ -13,12 +13,12 @@ male nurses to male patients), and count the different fees by patients’ age g
 and let administrators to input their names (first name and last name) each time to record who
 input the data of registration, and can retrieve data from system.
 
-There are 8 classes, and 2 enumerations:
+There are eight classes, and two enumerations:
 
-## 8 Classes: Person, Doctor, Patient, Nurse, Administrator, InformationRegister,
+## Eight Classes: Person, Doctor, Patient, Nurse, Administrator, InformationRegister,
 RegistrationRecord, PatientOnlineRegistrationApp
 
-## 2 enumeration: AgeGroup, DoctorType
+## Two enumeration: AgeGroup, DoctorType
 There are two files for this application: Patient_name.txt and Registration System.txt
 When running the project, firstly user need to input patient’s first name, last name, gender, and
 age (Note: if user doesn’t input the number for age, it will cause exception). User will not stop
