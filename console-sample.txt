@@ -1,0 +1,97 @@
+Console sample:
+
+
+============* Health Clinic Registration System *==========
+***********************************************************
+The doctor list: 
+[Doctor: Tracy Feng ("F", FAMILY_PRACTICE)
+, Doctor: Zoe Wall ("F", GERIATRICIAN)
+, Doctor: Jack Thompson ("M", PEDIATRICIAN)
+]
+Please enter patient's first name, last name, gender(F/M), age(Type "quit" to get the information): 
+Therasal
+Hong
+F
+80
+Please enter patient's first name, last name, gender(F/M), age(Type "quit" to get the information): 
+Stephy
+Liu
+F
+2
+Please enter patient's first name, last name, gender(F/M), age(Type "quit" to get the information): 
+Tony
+Liao
+M
+23
+Please enter patient's first name, last name, gender(F/M), age(Type "quit" to get the information): 
+Philips
+Thomson
+M
+63
+Please enter patient's first name, last name, gender(F/M), age(Type "quit" to get the information): 
+QUIT
+
+Please input your name (as Administrator):
+Chloe Xu
+====================================================================================
+
+*******************  A Patient's Online Registration Information  ******************
+
+Patient Name: Therasal Hong (Gender: F, Age: 80, Age group: ELDERLY)
+
+Register with: 
+Doctor: Zoe Wall ("F", GERIATRICIAN)
+
+Nurse (Karen Lin, F)
+Fee: $28.00
+                                      Administrator: Chloe Xu
+====================================================================================
+
+*******************  A Patient's Online Registration Information  ******************
+
+Patient Name: Stephy Liu (Gender: F, Age: 2, Age group: PEDIATRIC)
+
+Register with: 
+Doctor: Jack Thompson ("M", PEDIATRICIAN)
+
+Nurse (Karen Lin, F)
+Fee: $0.00
+                                      Administrator: Chloe Xu
+====================================================================================
+
+*******************  A Patient's Online Registration Information  ******************
+
+Patient Name: Tony Liao (Gender: M, Age: 23, Age group: YOUNG)
+
+Register with: 
+Doctor: Tracy Feng ("F", FAMILY_PRACTICE)
+
+Nurse (James Kai, M)
+Fee: $40.00
+                                      Administrator: Chloe Xu
+====================================================================================
+
+*******************  A Patient's Online Registration Information  ******************
+
+Patient Name: Philips Thomson (Gender: M, Age: 63, Age group: MIDDLE_AGE)
+
+Register with: 
+Doctor: Tracy Feng ("F", FAMILY_PRACTICE)
+
+Nurse (James Kai, M)
+Fee: $36.00
+                                      Administrator: Chloe Xu
+====================================================================================
+
+All patients' information ordered by their age group: 
+[Patient Name: Therasal Hong (Gender: F, Age: 80, Age group: ELDERLY)
+, Patient Name: Stephy Liu (Gender: F, Age: 2, Age group: PEDIATRIC)
+, Patient Name: Philips Thomson (Gender: M, Age: 63, Age group: MIDDLE_AGE)
+, Patient Name: Tony Liao (Gender: M, Age: 23, Age group: YOUNG)
+]
+====================================================================================
+Look up the doctor's firstname "Oscar": 
+Doctor: Oscar Liu ("M", FAMILY_PRACTICE)
+
+**********************************************************************************
+*******Thank you for using Patients Online Registration System! Good Bye!*********
